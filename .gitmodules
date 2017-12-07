@@ -1,3 +1,6 @@
 [submodule "FreeRTOS"]
 	path = FreeRTOS
 	url = https://github.com/tomasvalno/FreeRTOS.git
+[submodule "H2H-Devices"]
+	path = H2H-Devices
+	url = https://github.com/tomasvalno/H2H-Devices.git
